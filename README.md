@@ -1,0 +1,2 @@
+# Dicee
+Basic dice game
